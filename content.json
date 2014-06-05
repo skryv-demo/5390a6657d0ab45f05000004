@@ -29,7 +29,8 @@
                 "selectedChoices": {}
             },
             "puberteitprepuberteit": {},
-            "insulineschema": {}
+            "insulineschema": {},
+            "de_patient_was_gedurende_het_ganse_kalenderjaar_in_behandeling_bij_dit_centrum": false
         },
         "metingen": {
             "lengte": {},
