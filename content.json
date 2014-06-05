@@ -10,7 +10,9 @@
         "overlijden": {
             "selectedChoices": {}
         },
-        "etniciteit_vader": {},
+        "etniciteit_vader": {
+            "selectedChoice": "Kaukasisch"
+        },
         "etniciteit_moeder": {},
         "geboortedatum": "Sun Mar 14 1999 00:00:00 GMT+0100 (CET)",
         "patient_niss": 99031426383,
